@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Robots should mind their business"
 ---
 
-I'm glad you are here. I plan to talk about ...
+And yes I know "robots" and "AI" are different things
